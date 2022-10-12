@@ -3,7 +3,7 @@
 
 In the above folders the readers of the dissertation of **Steve Wolff-Vorbeck** find tailor made **C++**– and **Python**–implementations developed for different applications regarded in the thesis.
 
-The development of the **C++**–software packages was done by **Steve Wolff-Vorbeck** (**University of Freiburg**) on the basis of a finite element software created by **Prof. Patrick Dondl** (**University of Freiburg**).
+The development of the **C++**–software packages was done by **<a href = https://aam.uni-freiburg.de/mitarb/wolffvorbeck/index.html>Steve Wolff-Vorbeck<a/>** (**University of Freiburg**) on the basis of a finite element software created by **Prof. Patrick Dondl** (**University of Freiburg**).
 
 The development of the **Python**–software package was was done by **Steve Wolff-Vorbeck** in collaboration with **Alexander Schulz** (**University of Freiburg**).
 
