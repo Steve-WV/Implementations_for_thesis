@@ -1,7 +1,7 @@
 
 # Implementations conducted for the Dissertation
 
-In the above folders the readers of the dissertation of **Steve Wolff-Vorbeck** find tailor made **C++**– and **Python**–implementations developed for different applications regarded in the thesis.
+In the above folders the readers of the dissertation of **Steve Wolff-Vorbeck** find tailor made implementations in **C++** and **Python** which were developed for different applications regarded in the thesis.
 
 The development of the software packages in **C++** was done by **<a href = https://aam.uni-freiburg.de/mitarb/wolffvorbeck/index.html>Steve Wolff-Vorbeck<a/>** (**University of Freiburg**) on the basis of a finite element software created by **Prof. Patrick Dondl** (**University of Freiburg**).
 
