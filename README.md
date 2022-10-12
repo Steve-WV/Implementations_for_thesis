@@ -9,7 +9,7 @@ The development of the software package in **Python** was was done by **Steve Wo
 
 The different codes belong to numerical implementations which are provided as link in the respective sections of the thesis.
 
-## Python–Implementations:
+## Python–Implementations 
 
 ### Section 10: 
 
@@ -39,5 +39,5 @@ The Code above uses the <b>Python-</b>implementation of the iterative closest po
 
 2. The **C++**–code in “**1d_surrogate_model**“ was developed for one-dimensional P1 finite element approximation. The approximation is used for evaluating an effective elastic energy for a one-dimensional surrogate model regarding a cylinder geometry. 
 
-The Codes above use the open source software package on cubic spline interpolation in <b> C++ </b> from <a href ="https://kluge.in-chemnitz.de/opensource/spline/">here</a> 
+The Codes developed for Section 12 use the open source software package on cubic spline interpolation in <b> C++ </b> from <a href ="https://kluge.in-chemnitz.de/opensource/spline/">here</a> 
 
