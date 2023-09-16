@@ -15,7 +15,7 @@ The different codes belong to numerical implementations which are provided as li
 
 1. The **Python**–code in “**image_analysis**“ was developed for the image analysis performed in Section 10. 
 
-The Code above uses the <b>Python-</b>implementation of the iterative closest point (ICP) method from <a href ="https://github.com/ClayFlannigan/icp">here</a> 
+The code above uses the iterative closest point (ICP) method. An implementation of the ICP-method has to be included from an external library which can, for instance, be found <a href ="https://github.com/ClayFlannigan/icp">here</a>.
 
 </p>
 
